@@ -1,0 +1,11 @@
+{
+  "name": "franken-ui-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MateThemes",
+  "license": "ISC",
+  "description": "A plain starter theme for OctoberCMS based on Franken UI and TailwindCSS",
+}
